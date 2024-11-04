@@ -1,4 +1,5 @@
-/*Genre Popularity: Determine which film genre has the highest total rental count and display the genre name along with the rental count.*/
+/*Genre Popularity: Determine which film genre has the highest total rental count
+and display the genre name along with the rental count.*/
 
 SELECT 
   c.name AS genre,
