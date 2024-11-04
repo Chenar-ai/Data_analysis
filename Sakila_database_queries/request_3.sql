@@ -1,4 +1,5 @@
-/*Top Actors: Find the top five actors with the most appearances in films, including the count of films they have acted in.*/
+/*Top Actors: Find the top five actors with the most appearances in films,
+including the count of films they have acted in.*/
 
 SELECT 
   a.first_name,
