@@ -1,4 +1,5 @@
-/*Customer Details: Retrieve the first name, last name, and email of all customers who have rented movies in the last 30 days.*/
+/*Customer Details: Retrieve the first name, last name, and email of all 
+customers who have rented movies in the last 30 days.*/
 
 SELECT 
   C.first_name,
